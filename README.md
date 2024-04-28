@@ -1,5 +1,5 @@
 ### UIGeun You Github👋
-<img src="https://img.shields.io/badge/unity-20232a.svg?style=for-the-badge&logo=unity&logoColor=000000" />
+<img src="https://img.shields.io/badge/unity-20232a.svg?style=for-the-badge&logo=unity&logoColor=FFFFFF" />
 <!--
 **UiGeunYou/UiGeunYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
